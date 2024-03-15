@@ -1,0 +1,6 @@
+main.c:62:5:_write	1
+main.c:73:5:main	1
+main.c:118:6:SystemClock_Config	4
+main.c:164:13:MX_UART4_Init	5
+main.c:212:13:MX_GPIO_Init	1
+main.c:232:6:Error_Handler	1
