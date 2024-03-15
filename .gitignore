@@ -1,2 +1,4 @@
 application/Debug/*
 bootloader/Debug/*
+application/.settings/*
+bootloader/.settings/*
